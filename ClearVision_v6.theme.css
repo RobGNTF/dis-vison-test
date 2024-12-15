@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://cdn.discordapp.com/attachments/663717549065895946/1257014258500239481/GLs1kz0WcAA0oAa.jpg?ex=6699ef81&is=66989e01&hm=b90fde484f8c5be13796f510af54826235d9726faf696db8e379a128588aea1f&); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/53e2a4d9-3659-486e-bc46-dfb5a2a7487b/d8j83mw-aadfb3f8-a3d1-4472-9dc7-510a000d12b1.png/v1/fill/w_1192,h_670,q_70,strp/night_sky_by_underpable_d8j83mw-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzUzZTJhNGQ5LTM2NTktNDg2ZS1iYzQ2LWRmYjVhMmE3NDg3YlwvZDhqODNtdy1hYWRmYjNmOC1hM2QxLTQ0NzItOWRjNy01MTBhMDAwZDEyYjEucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.LIammrMP5qlMaBpm0-7aMV8TA-kb71WmiO0MhjD6-mg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
